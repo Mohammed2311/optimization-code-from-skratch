@@ -6,7 +6,7 @@ These optimization algorithms play a crucial role in training deep neural networ
 
 Each algorithm has its strengths and is suited for different scenarios.
 
-##Gradient Descent (GD)
+## Gradient Descent (GD)
 A fundamental optimization algorithm used to minimize the loss function in machine learning models. It iteratively updates the model parameters in the direction of steepest descent of the loss function gradient.
 
 ## Momentum-Based Gradient Descent
